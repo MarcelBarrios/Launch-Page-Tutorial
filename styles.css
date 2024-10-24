@@ -13,7 +13,7 @@ body {
 
 .hero-background-img {
     position: relative;
-    background-image: url("/landscape.avif");
+    background-image: url("https://www.mickeyshannon.com/photos/under-the-tuscan-sunset.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -25,7 +25,7 @@ body {
   .hero-background-img:after {
     content: "";
     position: absolute;
-    background-image: url("/landscape.avif");
+    background-image: url("https://www.mickeyshannon.com/photos/under-the-tuscan-sunset.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
